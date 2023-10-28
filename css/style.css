@@ -25,7 +25,7 @@ body {
         color: #fff;
         text-shadow:
             0 0 12px cyan,
-            0 0 50px cyan,
+            0 0 50px #12aeae,
             0 0 100px cyan;
     }
     10%,
