@@ -24,9 +24,9 @@ body {
     100% {
         color: #fff;
         text-shadow:
-            0 0 12px #39c6d6,
-            0 0 50px #39c6d6,
-            0 0 100px #39c6d6;
+            0 0 12px cyan,
+            0 0 50px cyan,
+            0 0 100px cyan;
     }
     10%,
     90% {
